@@ -1,4 +1,4 @@
-# Golden-Section-Method
+# Find-the-Extremum-Point-of-a-Function
  It is a code that I wrote by using matlab language by using golden section method.
  The Golden Section Search method is a method to find the extremum point of a function that 
 contains only one maximum or minimum point on a closed interval. To use the golden section 
